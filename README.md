@@ -1,5 +1,5 @@
 # Exo App
-This is a repository that contains the source code of my submissions project at Dicoding "Belajar Membuat Aplikasi Android dengan Jetpack Compose" course. This course is a part of self-paced learning at Bangkit 2023 Mobile Development learning path.
+This is a repository that contains the source code of my submissions project at Dicoding "Belajar Membuat Aplikasi Android dengan Jetpack Compose" course. This course is a part of self-paced learning at Bangkit Academy 2023 Mobile Development learning path.
 
 ## Features
 1. Display data in List format with a minimum number of 10 different items. Use LazyList/LazyGrid to arrange the data.
