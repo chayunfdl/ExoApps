@@ -6,5 +6,8 @@ This is a repository that contains the source code of my submissions project at 
 2. Display relevant images and information on detail pages.
 3. About page
 
+## Result
+⭐️⭐️⭐️⭐️⭐️
+
 ## Disclaimer
 This repository is created for sharing and educational purposes only. Plagiarism is unacceptable and is not my responsibility as the author.
