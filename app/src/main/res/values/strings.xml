@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exo Application</string>
+    <string name="scroll_top">Scroll Top</string>
+    <string name="search_member">Search your bias</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_about">About</string>
+    <string name="myname">Chayun Fadila</string>
+    <string name="myemail">chaiiii.0110@gmail.com</string>
+    <string name="detail_title">Detail Member</string>
+    <string name="back">back</string>
+    <string name="profile">Profile Image</string>
+</resources>
